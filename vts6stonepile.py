@@ -1,3 +1,4 @@
+#when the mod or sum of num is not given!!!
 n = int(input())
 stone = list(map(int,raw_input.split()))
 stone = sorted(stone)

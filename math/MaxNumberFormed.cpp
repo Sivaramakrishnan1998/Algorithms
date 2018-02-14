@@ -1,5 +1,6 @@
 //a c++ program to find max number formed from an given integer
 //eg: input::123456 output::654321
+//can also use sort method but efficiency is o(n log n)
 #include <iostream>
 using namespace std;
 void printmax(int num)

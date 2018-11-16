@@ -1,12 +1,5 @@
-# Algorithms
-Coderust Lessons - Free Alternatives
----
+### Algorithms
 
-A compilation of free links that correspond to the CodeRust lessons. Some may be equivalent, some may not. May or may not have your languages of choice. I'm open to pull requests if you'd like to help add better resources.
-
-See CodeRust Rubric here: [Educative](https://www.educative.io/collection/5642554087309312/5679846214598656)
-
----
 
 ### Arrays
 
